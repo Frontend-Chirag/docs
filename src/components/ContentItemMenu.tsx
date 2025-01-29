@@ -10,7 +10,7 @@ import { Button } from './ui/button';
 import { useContentItemActions } from '@/hooks/use-content-item-actions';
 import DragHandle from '@tiptap-pro/extension-drag-handle-react'
 
-interface ContentItemMenuProps {
+interface ContentItemMenuProps {  
     editor: Editor;
 }
 
